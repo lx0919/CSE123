@@ -1,0 +1,11 @@
+red/blue-0
+yellow/green-1
+gold/silver-5
+END:Cheerios-3
+END:Frosted Mini Wheats-6
+END:Raisin Bran-5
+purple/orange-2
+END:Frosted Flakes-1
+black/white-3
+END:Rice Krispies-2
+END:Fruity Pebbles-4
